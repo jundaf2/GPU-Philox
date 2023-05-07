@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/poweruser/junda.feng/GPU-Philox/build",
-  "command": "/home/poweruser/junda.feng/anaconda3/bin/nvcc -forward-unknown-to-host-compiler -DcuPhilox_EXPORTS --options-file CMakeFiles/cuPhilox.dir/includes_CUDA.rsp -std=c++14 --generate-code=arch=compute_86,code=[compute_86,sm_86] -Xcompiler=-fPIC -Xcompiler=-fvisibility=hidden -Wno-unknown-pragmas -x cu -c /home/poweruser/junda.feng/GPU-Philox/philox.cu -o CMakeFiles/cuPhilox.dir/philox.cu.o",
-  "file": "/home/poweruser/junda.feng/GPU-Philox/philox.cu",
-  "output": "CMakeFiles/cuPhilox.dir/philox.cu.o"
-}
-]
