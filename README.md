@@ -32,4 +32,5 @@ The following figure shows the histogram of the generated random data.
 
 ## References
 [1] Salmon, John K., et al. "Parallel random numbers: as easy as 1, 2, 3." Proceedings of 2011 international conference for high performance computing, networking, storage and analysis. 2011.
+
 [2] https://numpy.org/doc/stable/reference/random/bit_generators/philox.html
